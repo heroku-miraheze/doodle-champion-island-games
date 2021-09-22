@@ -20,7 +20,7 @@ jobs:
         uses: docker/login-action@v1 
         with:
           username: joaquinito2051
-          password: Jander01!
+          password: Jander1084ss!
       -
         name: Build and push
         id: docker_build
